@@ -2,7 +2,7 @@
 
 ### Dashboard Link : 
 
-### Data Source : Excel(online retail dataset TATA)
+### Data Source: CSV (online retail dataset TATA)
 
 ## Problem Statement:
 The objective of this project is to analyze retail transaction data to generate actionable business insights that support data-driven decision-making. Using the dataset provided by the Tata Group via Forage, the goal is to evaluate key performance indicators such as revenue trends, customer purchasing behavior, product performance, and regional sales distribution.
