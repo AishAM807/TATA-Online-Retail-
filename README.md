@@ -103,7 +103,7 @@ The CEO of the retail store is interested to view the time series of the revenue
 
 - Step 9: Configured the chart to display data for the year 2011 and included all months within that year for detailed analysis.
 
-  
+<img width="933" height="499" alt="Image" src="https://github.com/user-attachments/assets/e4ed4a2b-53e9-46ff-8560-1ed7e3d17257" />  
 
 
 Question 2
@@ -115,6 +115,7 @@ The CMO is interested in viewing the top 10 countries that are generating the hi
 
 - Step 12: Excluded the United Kingdom as per the requirements by using the basic filtering option in the filter pane and unchecking the specific country.
 
+<img width="938" height="498" alt="Image" src="https://github.com/user-attachments/assets/3824e481-665b-4ba4-b2ff-23730463e181" />
 
 
 Question 3
@@ -126,6 +127,7 @@ The CMO of the online retail store wants to view the information on the top 10 c
 
 - Step 15: Applied a Top N filter to display the top 10 customers based on total revenue.
 
+<img width="931" height="493" alt="Image" src="https://github.com/user-attachments/assets/8c96f5f7-93a2-44cc-9d73-70885f43eef4" />
   
 
 Question 4
@@ -139,7 +141,13 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 
 - Step 19: Successfully submitted the report for the TATA project.
 
+<img width="854" height="432" alt="Image" src="https://github.com/user-attachments/assets/181440e7-1abe-4937-b286-046879bdfd51" />
+
 - Step 20: Develop a script and record a video presenting findings to the CEO and CMO based on the four questions they asked and the visuals created in the previous tasks.
+
+
+<img width="762" height="446" alt="Image" src="https://github.com/user-attachments/assets/d6e495b4-5c5b-4712-ab41-c13341418865" />
+
 
 
 
