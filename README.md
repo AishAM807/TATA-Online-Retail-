@@ -150,4 +150,13 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 
 
 
+# Insights
+
+- Revenue trend (2011) — Total annual revenue was approximately 9.18M. The year had a dramatic W-shaped pattern: two dips (Feb at 0.47M,    Apr at 0.48M) followed by a strong H2 surge peaking at 1.27M in November. December then collapsed by 54% — likely a post-holiday demand   drop or data cutoff effect. H2 outperformed H1 by roughly 28%.
+
+- Customer concentration — The top 2 customers (IDs 14646 and 18102) together generated 540K, which is more than the combined revenue of    the bottom 5 top-10 customers. This is a classic 80/20 pattern — a handful of customers are driving a disproportionate share of           revenue, creating key-account risk.
+
+- Country performance — Netherlands and EIRE dominate, but interestingly, EIRE has a higher revenue-per-unit ratio (~1.83) compared to      the Netherlands (~1.43), meaning EIRE customers purchase higher-value items. Sweden is the outlier with a near 1:1 revenue-to-quantity    ratio, suggesting very low average order values. The top 4 countries alone account for 72% of the top-10 total revenue.
+
+- Geographic gaps — Europe and North America are clearly the strongest regions. Australia is the only non-European, non-North American      market in the top 10. Asia is almost entirely absent (Japan alone appears), and South America/Africa are negligible, representing         significant untapped potential.
 
